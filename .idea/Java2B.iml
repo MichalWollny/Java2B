@@ -2,7 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/03_Literature" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Literature/Literature_JAVA_Teil1/01_codes/A_JavaEinfuehrung/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Literature/Literature_JAVA_Teil1/01_codes/A_JavaEinfuehrung/src/aufgaben" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Literature/Literature_JAVA_Teil1/01_codes/B_StringExamples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Literature/Literature_JAVA_Teil1/01_codes/C_KontrollStrukturen/src" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

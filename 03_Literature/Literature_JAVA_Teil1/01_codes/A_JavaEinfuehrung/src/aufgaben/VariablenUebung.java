@@ -13,4 +13,25 @@ Verfügbarkeitsstatus aus.
 und 'F'. Gib die Note aus.
 */
 public class VariablenUebung {
+    public static void main(String[] args) {
+        // Übung 1: int-Variable für aktuelles Jahr
+        int year = 2024;
+        System.out.println("Aktuelles Jahr: " + year);
+
+        // Übung 2: double-Variable für Temperatur
+        double temperature = 23.5;
+        System.out.println("Temperatur: " + temperature + " °C");
+
+        // Übung 3: String-Variable für Heimatstadt
+        String city = "Berlin";
+        System.out.println("Meine Heimatstadt ist: " + city);
+
+        // Übung 4: boolean-Variable für Verfügbarkeit
+        boolean isAvailable = false;
+        System.out.println("Verfügbar: " + isAvailable);
+
+        // Übung 5: char-Variable für Note
+        char grade = 'B';
+        System.out.println("Note: " + grade);
+    }
 }
