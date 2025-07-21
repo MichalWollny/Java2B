@@ -24,7 +24,6 @@ public class ButtonMitAktion {
                 JOptionPane.showMessageDialog(fenster,"Hallo zusammen"));
 
 
-
         // legen wir den Knopf ins Fenster
         fenster.add(knopf);
 
