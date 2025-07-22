@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/03_Literature/Literature_JAVA_Teil1/01_codes/A_JavaEinfuehrung/src/aufgaben" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_Literature/Literature_JAVA_Teil1/01_codes/B_StringExamples/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_Literature/Literature_JAVA_Teil1/01_codes/C_KontrollStrukturen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Übung/02_Übungen_Baustein_JAVA4/GUI/Java_Swing_Uebungen" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
